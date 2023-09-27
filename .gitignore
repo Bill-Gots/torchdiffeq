@@ -6,3 +6,11 @@
 .vscode
 build
 dist
+examples/.data/mnist/MNIST/raw/t10k-images-idx3-ubyte
+examples/.data/mnist/MNIST/raw/t10k-images-idx3-ubyte.gz
+examples/.data/mnist/MNIST/raw/t10k-labels-idx1-ubyte
+examples/.data/mnist/MNIST/raw/t10k-labels-idx1-ubyte.gz
+examples/.data/mnist/MNIST/raw/train-images-idx3-ubyte
+examples/.data/mnist/MNIST/raw/train-images-idx3-ubyte.gz
+examples/.data/mnist/MNIST/raw/train-labels-idx1-ubyte
+examples/.data/mnist/MNIST/raw/train-labels-idx1-ubyte.gz
